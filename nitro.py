@@ -89,7 +89,7 @@ def nitro():
             for char in sentence:
 
                 action.send_keys(char)
-                action.pause(0.06 + uniform(0.005, 0.025))
+                action.pause(0.06 + uniform(0.005, 0.025))  # CHANGE 0.06 TO WHATEVER YOU WANT, FASTER WOULD BE LESS THAN 0.06 AND SLOWER WOULD BE GREATER!
             
             action.perform()
 
