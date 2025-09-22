@@ -10,7 +10,7 @@
 * Open a terminal and `pip3 install selenium`
 * Have a chrome driver in the same folder. visit https://googlechromelabs.github.io/chrome-for-testing/ to find the chrome driver for you, and also make sure u update the path of the chrome driver in the script. 
 * Run nitro.py
-* **DOES 100-115 WPM RN WILL CUSTOM WPM SOON**
+* **DOES 100-115 WPM BY DEFAULT WILL CUSTOM WPM SOON**
 
 # 📝 Notes
 * This is strictly for educational purposes and any actions taken to any accounts are not responsible on anybody but the user.
