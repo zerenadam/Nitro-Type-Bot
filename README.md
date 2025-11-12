@@ -17,4 +17,3 @@
 * **USE AT YOUR OWN RISK.**
 * Nitro Type does ban botting, however this during testing this seems like the most safe option.
 
-# **PLEASE ⭐️ THE PROJECT**
